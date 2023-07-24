@@ -1,4 +1,4 @@
 print("Hello")
-print("Welcome to Malu hub")
+print("Welcome to Amalu hub")
 
-print("Obriagado from Malu")
+print("Obriagado from Amalu")
